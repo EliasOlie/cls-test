@@ -68,7 +68,7 @@ JavaScript (Vanilla): Utilizado apenas para simular a latência de rede (setTime
 Clone este repositório:
 
 ```Bash
-git clone [https://github.com/EliasOlie/cls.git]([https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/EliasOlie/cls.git))
+git clone [https://github.com/EliasOlie/cls.git](https://github.com/EliasOlie/cls.git)
 ```
 Abra o arquivo index.html em qualquer navegador.
 
