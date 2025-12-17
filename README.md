@@ -47,3 +47,33 @@ No CSS, definimos explicitamente o espaço que o anúncio ocupará **antes** del
     min-height: 100px; /* O espaço está reservado */
     width: 100%;
 }
+```
+Isso garante que, mesmo que o anúncio demore 5 segundos para aparecer, o conteúdo ao redor permanece imóvel. CLS = 0.
+
+#### 2. Skeleton Screens (UI de Carregamento)
+Em vez de um espaço em branco ou um "pulo" repentino, usamos um Skeleton (esqueleto) animado.
+
+Função: Reduz a ansiedade do usuário e indica que algo será carregado ali.
+
+UX: Melhora a percepção de performance (Perceived Performance).
+
+## 🛠️ Tecnologias Utilizadas
+HTML5 Semântico
+
+CSS3: Grid Layout, Flexbox, Animations (para o Skeleton) e Variáveis (CSS Custom Properties).
+
+JavaScript (Vanilla): Utilizado apenas para simular a latência de rede (setTimeout) e demonstrar o comportamento assíncrono de anúncios reais.
+
+## 🚀 Como Rodar Localmente
+Clone este repositório:
+
+```Bash
+git clone [https://github.com/EliasOlie/cls.git]([https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/EliasOlie/cls.git))
+```
+Abra o arquivo index.html em qualquer navegador.
+
+Escolha entre sentir raiva (AdTube) ou sentir paz (ZenStream).
+
+## 👨‍💻 Autor
+Desenvolvido para conscientizar desenvolvedores e empresários de que Performance é UX.
+Este projeto é uma sátira educativa. Nenhum usuário real foi forçado a clicar em anúncios de remédio para calvície durante o desenvolvimento.
