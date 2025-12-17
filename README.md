@@ -2,7 +2,7 @@
 
 > Um estudo prático (e satírico) sobre Core Web Vitals, UX e por que botões que fogem do mouse são a ruína da internet.
 
-🔗 **[Acesse a Demonstração Online](https://eliasolie.github.io/cls-test/)** *(Substitua pelo seu link do Pages)*
+🔗 **[Acesse a Demonstração Online](https://eliasolie.github.io/cls/)** *(Substitua pelo seu link do Pages)*
 
 ---
 
